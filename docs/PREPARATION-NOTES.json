@@ -1,0 +1,10 @@
+{
+  "mesh_axis_align.py": "Python syntax valid",
+  "tests\\test_mesh_axis_align.py": "Python syntax valid",
+  "tests\\test_mesh_axis_align_v12.py": "Python syntax valid",
+  "tests\\test_mesh_axis_align_v13.py": "Python syntax valid",
+  "source_matches_original_v1.3.0_zip": true,
+  "blender_retest": "Not completed: local background Blender launch returned exit 1 without diagnostics; --version also produced no output.",
+  "license": "Not selected; LICENSE must be added before open-source release.",
+  "installer_sha256": "b3055ce824b4204a5d32f5ef5e6d6591a5329bc04a3a06fd8d0a54d1f727492a"
+}
